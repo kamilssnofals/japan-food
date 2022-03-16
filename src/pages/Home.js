@@ -8,8 +8,8 @@ function Home() {
         <div>
             <div className="home" style={{ backgroundImage: `url(${BannerImage})` }}>
                 <div className="headerContainer">
-                    <h1>Yuki's Sushi</h1>
-                    <p>No.1 sushi restaurant in Toronto</p>
+                    <h1>Kamil's Sushi</h1>
+                    <p>No.1 sushi restaurant in Dubai</p>
                     <Link to="/menu">
                         <button>ORDER NOW</button>
                     </Link>
